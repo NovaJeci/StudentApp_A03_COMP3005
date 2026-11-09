@@ -18,7 +18,7 @@ public class StudentApp {
     // ------------------------------------------------------------------
     private static final String URL = "jdbc:postgresql://localhost:5432/student_db";
     private static final String USER = "postgres";
-    private static final String PASSWORD = "your_password";
+    private static final String PASSWORD = "PrishaJecintho!17";
 
     /** Opens and returns a new connection to the database. */
     private static Connection getConnection() throws SQLException {
