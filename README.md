@@ -4,7 +4,7 @@ COMP 3005 – Assignment 3, Question 1.
 
 A command-line Java app that connects to a PostgreSQL `students` table and performs CRUD operations.
 
-**Demo video:** <PASTE YOUR VIDEO LINK HERE>
+**Demo video:** https://youtu.be/VyVU2-ws7VI
 
 ## Project structure
 ```
